@@ -1,4 +1,4 @@
-# Reinforcement_Learning_for_AD_diagnosis
+# Reinforcement Learning for AD diagnosis
 
 ## Reference 
 #### 1. Yoon, Jinsung, James Jordon, and Mihaela van der Schaar. "INVASE: Instance-wise variable selection using neural networks." International Conference on Learning Representations. 2018.   
